@@ -1,4 +1,3 @@
-import products from "../library";
 
 export interface CardProps {
   id: number;
